@@ -1,2 +1,4 @@
 # student-teacher-portal
-A java application to help teachers and students to respectively enter and view attendance, marks and other academic activities.
+A Java program which can be used by the faculty to store and update the attendance and marks of all the student along with
+the timetable and curriculum, and can be used by the students to view their respective attendance and marks along with
+other course related details.
